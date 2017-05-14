@@ -52,7 +52,7 @@ m_swedish,
 
 m_turkish, 
 
-m_vietnamese
+m_vietnamese,
 
 
 {UKM-LAOS}
